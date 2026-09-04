@@ -10,6 +10,6 @@
  
 - 자원의 효율성과 반복 작업에서의 자동화로 인한 편리함 , 세부적인 시스템 관리가 가능 , 개발 도구 활용이 편리함 , 네트워크 최적화로 서버 환경에 적합함
  
-- 사용자가 텍스트 창에 직접 글자를 입력하여 운영체제에 특정 작업을 수행하도록 지시하는 명령어이며 중요 명령어로는 ls(list) , cd(change directory , pwd(print working directory) , mkdir(make directory) , cp(copy)가 있음 
+- 사용자가 텍스트 창에 직접 글자를 입력하여 운영체제에 특정 작업을 수행하도록 지시하는 명령어이며 중요 명령어로는 ls(list) , cd(change directory , pwd(print working directory) , mkdir(make directory) , rm(remove)가 있음 
 
 <img width="372" height="179" alt="image" src="https://github.com/user-attachments/assets/83916bf0-99a7-4a54-bf03-14cd02c2e5b5" />
