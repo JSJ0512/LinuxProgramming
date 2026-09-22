@@ -9,7 +9,8 @@
 
 - cd dir3
 - rm *
-- cd rmdir dir3
+- cd
+- rmdir dir3
 -----------------
 - cat은 파일 내용을 한번에 출력하는 것
 - less는 화면 단위로 출력하며 위,아래로 이동 가능한 것
