@@ -6,8 +6,8 @@
 
 - man cat
 
-- which cd
-  which ls
-  which cp
-  which rm
-  which ifconfig
+- which cd \n
+  which ls \n
+  which cp \n
+  which rm \n
+  which ifconfig \n
