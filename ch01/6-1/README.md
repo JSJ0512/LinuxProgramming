@@ -6,8 +6,4 @@
 
 - man cat
 
-- which cd \n
-  which ls \n
-  which cp \n
-  which rm \n
-  which ifconfig \n
+- which 명령어를 통해 명령어의 실행 파일이 존재하는 경로를 조사할 수 있다
