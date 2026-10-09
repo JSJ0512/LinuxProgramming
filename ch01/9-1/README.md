@@ -1,8 +1,8 @@
 - -rwxr-xr-x 1 root root 35280 Feb 8 2022 /bin/cat 에서 1번은 파일 타입, 2번은 파일 모드 , 3번은 하드 링크의 개수 , 4번은 파일의 소유자 , 5번은 파일의 소유 그룹 , 6번은 파일의 크기 , 7번은 최종 수정 날짜, 8번은 파일의 경로
 <img width="490" height="123" alt="image" src="https://github.com/user-attachments/assets/4413cc5d-da45-424d-a16d-ce9eede33c1c" />
-
+-------------------
 - <img width="498" height="118" alt="image" src="https://github.com/user-attachments/assets/13284f5c-5d34-4662-b503-b7da70b6d3e7" />
-
+-------------------
 - 권한이 필요한 특정 파일에 접근할때 필요하며 예시로는 일반 사용자 로그인 상태에서 /etc/shadow라는 파일의 내용을 볼때 허가 거부라는 에러가 발생함
 - 두 퍼미션 모두 r , w , x 의 기호를 사용하지만 파일 퍼미션에서 의미하는 것과 디렉터리 퍼미션에서 의미하는 것이 각각 다 다르다
 - su는 슈퍼 사용자로 전환하기 위해 사용하고 sudo는 슈퍼 사용자로 슈퍼 사용자만 실행 가능한 명령어를 실행하기 위해 사용한다. 
