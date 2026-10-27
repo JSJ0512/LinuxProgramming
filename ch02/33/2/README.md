@@ -1,9 +1,9 @@
 - test.h
 ----------
 -     #ifndef TEST_H
-  헤더 파일 중복 장비
+  정의되지 않았는지 확인
 -     #define TEST_H
-  헤더 파일 중복 장비
+  정의되지 않았다면 정의
 -     int input(void);
   정수를 입력 받는 함수
 -     int max(int a, int b);
