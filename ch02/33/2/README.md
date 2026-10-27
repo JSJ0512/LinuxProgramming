@@ -37,6 +37,25 @@
          return b;}
   a가b보다 크다면 a값을 반환 , 크지 않다면 b 겂을 반환함
 -     void maxprint(int max){
-  
+  max값을 출력라는 함수
 -     printf("max : %d\n", max);}
   다음과 같은 텍스트를 출력
+---------
+- main.c
+---------
+-     #include "test.h"
+  test.h 함수를 포함함
+-     int main(void){
+  메인 함수
+-     int a, b, max;
+  정수 a,b,max 선언
+-     a = input();
+  a값에 입력받은 a값을 저장
+-     b = input();
+  b값에 입력받은 b값을 저장
+-     max = max(a, b);
+  max 값에 입력받은 두 정수를 저장
+-     print(max);
+  max를 출력
+-     return 0;}
+  0의 값 반환
