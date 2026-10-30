@@ -1,6 +1,6 @@
-- <img width="426" height="197" alt="image" src="https://github.com/user-attachments/assets/7cc50ddb-2e00-4fad-80d8-0230f4d3f278" />
+-     <img width="426" height="197" alt="image" src="https://github.com/user-attachments/assets/7cc50ddb-2e00-4fad-80d8-0230f4d3f278" />
 
-- CC = gcc
+-     CC = gcc
   CC는 gcc를 의미함
   
 -     CFLAGS = -g -Wall
