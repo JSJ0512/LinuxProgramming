@@ -2,7 +2,7 @@
 #define AA_H
 class Shape {
 private:
-    int x, y
+    int x, y;
 public:
     void set(int x, int y);
     void a() const;
