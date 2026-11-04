@@ -28,4 +28,4 @@ public:
     void setTriangle(int x, int y, int n, int h);
     void show() const;
 };
-#endi
+#endif
