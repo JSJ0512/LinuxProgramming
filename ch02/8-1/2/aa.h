@@ -1,5 +1,5 @@
-#ifndef SHAPE_H
-#define SHAPE_H
+#ifndef AA_H
+#define AA_H
 class Shape {
 private:
     int x, y;
