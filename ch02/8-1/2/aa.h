@@ -1,6 +1,6 @@
 #ifndef AA_H
 #define AA_H
-class Shape {
+class Shap {
 private:
     int x, y;
 public:
