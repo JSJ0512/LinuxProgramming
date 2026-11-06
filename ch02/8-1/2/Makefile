@@ -4,9 +4,9 @@ OBJS = main.o aa.o
 TARGET = main
 $(TARGET) : $(OBJS)
 	$(CX) -o $(TARGET) $(OBJS)
-main.o : main.cpp aa.h
+main.o : main.cpp aa.hpp
 	$(CX) $(CXFLAGS) -c main.cpp
-aa.o : aa.cpp aa.h
+aa.o : aa.cpp aa.hpp
 	$(CX) $(CXFLAGS) -c aa.cpp
 .PHONY: clean
 clean :
