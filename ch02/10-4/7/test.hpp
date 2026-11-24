@@ -1,5 +1,5 @@
-#ifndef TEST.HPP
-#define TEST.HPP
+#ifndef TEST_HPP
+#define TEST_HPP
 template <typename T>
 void my_sort(T first, T last)
 {
